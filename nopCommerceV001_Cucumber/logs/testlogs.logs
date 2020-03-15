@@ -1,0 +1,35 @@
+2020-03-15 12:16:20 INFO  nopCommerce:30 - *********Launching Browser***************
+  2020-03-15 12:16:20 INFO  nopCommerce:36 - *********Opening URL***********
+  2020-03-15 12:16:23 INFO  nopCommerce:42 - *********Providing Login Details*************
+  2020-03-15 12:16:24 INFO  nopCommerce:49 - *********startedlogin**********
+  2020-03-15 12:17:03 INFO  nopCommerce:30 - *********Launching Browser***************
+  2020-03-15 12:17:03 INFO  nopCommerce:36 - *********Opening URL***********
+  2020-03-15 12:17:09 INFO  nopCommerce:42 - *********Providing Login Details*************
+  2020-03-15 12:17:09 INFO  nopCommerce:49 - *********startedlogin**********
+  2020-03-15 12:17:42 INFO  nopCommerce:30 - *********Launching Browser***************
+  2020-03-15 12:17:42 INFO  nopCommerce:36 - *********Opening URL***********
+  2020-03-15 12:17:43 INFO  nopCommerce:42 - *********Providing Login Details*************
+  2020-03-15 12:17:44 INFO  nopCommerce:49 - *********startedlogin**********
+  2020-03-15 12:17:58 INFO  nopCommerce:179 - *********Searching a Customer by Firstname && Lastname************
+  2020-03-15 12:18:05 INFO  nopCommerce:81 - ****closing the browser********
+  2020-03-15 12:18:16 INFO  nopCommerce:30 - *********Launching Browser***************
+  2020-03-15 12:18:16 INFO  nopCommerce:36 - *********Opening URL***********
+  2020-03-15 12:18:20 INFO  nopCommerce:42 - *********Providing Login Details*************
+  2020-03-15 12:18:21 INFO  nopCommerce:49 - *********startedlogin**********
+  2020-03-15 12:18:26 INFO  nopCommerce:64 - ********Login Passed ***********
+  2020-03-15 12:18:31 INFO  nopCommerce:73 - ****User is logged out**********
+  2020-03-15 12:18:31 INFO  nopCommerce:64 - ********Login Passed ***********
+  2020-03-15 12:18:34 INFO  nopCommerce:81 - ****closing the browser********
+  2020-03-15 12:18:45 INFO  nopCommerce:30 - *********Launching Browser***************
+  2020-03-15 12:18:45 INFO  nopCommerce:36 - *********Opening URL***********
+  2020-03-15 12:18:50 INFO  nopCommerce:42 - *********Providing Login Details*************
+  2020-03-15 12:18:50 INFO  nopCommerce:49 - *********startedlogin**********
+  2020-03-15 12:18:54 INFO  nopCommerce:64 - ********Login Passed ***********
+  2020-03-15 12:18:59 INFO  nopCommerce:73 - ****User is logged out**********
+  2020-03-15 12:18:59 INFO  nopCommerce:64 - ********Login Passed ***********
+  2020-03-15 12:19:02 INFO  nopCommerce:81 - ****closing the browser********
+  2020-03-15 12:19:12 INFO  nopCommerce:30 - *********Launching Browser***************
+  2020-03-15 12:19:12 INFO  nopCommerce:36 - *********Opening URL***********
+  2020-03-15 12:19:16 INFO  nopCommerce:42 - *********Providing Login Details*************
+  2020-03-15 12:19:17 INFO  nopCommerce:49 - *********startedlogin**********
+  
